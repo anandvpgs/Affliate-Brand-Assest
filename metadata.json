@@ -1,0 +1,8 @@
+{
+  "name": "BrandVision AI",
+  "description": "An advanced AI-powered assistant for website analysis, brand strategy, and cross-platform creative generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
